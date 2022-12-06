@@ -1,0 +1,20 @@
+[
+    {
+        "firstName": "Harish",
+        "email": "harish@xplay.com",
+        "lastName": "Rustybat",
+        "oktaUserId": "00u7hxam2q6wbrAkE5d7"
+    },
+    {
+        "firstName": "Aditya",
+        "email": "aditya@xplay.com",
+        "lastName": "Vinayak",
+        "oktaUserId": "00u7hxinfka2vBMW05d7"
+    },
+    {
+        "firstName": "Tushar",
+        "email": "tushar@xplay.com",
+        "lastName": "Walzade",
+        "oktaUserId": "00u7hxikhfRJKLtiE5d7"
+    }
+]

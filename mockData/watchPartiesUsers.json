@@ -1,0 +1,14 @@
+[
+    {
+        "isHost": true,
+        "isJoined": true,
+        "userId": "user1",
+        "watchPartyId": "watchParty12345"
+    },
+    {
+        "isHost": false,
+        "isJoined": true,
+        "userId": "user2",
+        "watchPartyId": "watchParty54321"
+    }
+]

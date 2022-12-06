@@ -1,0 +1,26 @@
+[
+    {
+        "endedAt": 1669833657022,
+        "movieId": "63825dd8aced639172b2b831",
+        "name": "Tushar's Watch Party",
+        "otp": "123-456",
+        "startedAt": 1669833627022,
+        "status": "ready"
+    },
+    {
+        "endedAt": 1669833657022,
+        "movieId": "63825dd8aced639172b2b832",
+        "name": "Tushar's Watch Party",
+        "otp": "456-123",
+        "startedAt": 1669833627022,
+        "status": "playing"
+    },
+    {
+        "endedAt": 1669833657022,
+        "movieId": "63825dd8aced639172b2b833",
+        "name": "Tushar's Watch Party",
+        "otp": "321-654",
+        "startedAt": 1669833627022,
+        "status": "ended"
+    }
+]
